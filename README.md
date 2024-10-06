@@ -1,3 +1,2 @@
-# False-Scoring-Detection
-# False-Scoring-Detection
-# False-Scoring-Detection
+# 酵素洗顔検出プログラム
+解答リストからランダムにn件選び，わざと誤採点を作り，その検出制度を確かめられる
